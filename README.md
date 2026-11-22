@@ -78,6 +78,8 @@ The following are **recreated, static analytical summaries of verified results**
 
 ![FECI published energy-cap group review](visuals/FECI_Cap_Review.svg)
 
+![EDI executive intelligence and decision workflow](visuals/EDI_Workflow_Summary.svg)
+
 The **original, validated Power BI screenshot excerpts** are included in the downloadable portfolio starter package and may be added after image-file review. Pre-reconciliation screenshots are excluded.
 
 A public PBIX and database backup are **not** supplied at this stage; they require data, credential, connection, licence, and reproducibility checks before distribution.
@@ -106,6 +108,7 @@ Links point to the publisher's materials rather than duplicating its full PDFs a
 - [Data reconciliation case study](docs/DATA_QUALITY_CASE_STUDY.md)
 - [Methodology, scope, and interpretation limits](docs/METHODOLOGY_AND_LIMITATIONS.md)
 - [Publication checklist](docs/PROJECT_SCOPE_AND_PUBLICATION_CHECKLIST.md)
+- [Power BI screenshot gallery and release checklist](docs/POWER_BI_SCREENSHOT_GALLERY.md)
 - [Power BI report availability](powerbi/README.md)
 - [SQL publication status](sql/README.md)
 - [Source data status](data/README.md)
