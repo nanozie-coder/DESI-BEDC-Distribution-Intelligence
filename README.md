@@ -68,9 +68,17 @@ flowchart LR
 
 **Technology:** Microsoft SQL Server / T-SQL for ingestion and reconciliation, Power BI / DAX for four-page reporting, and manual source-validation checks.
 
-## Dashboard evidence
+## Validated portfolio visuals
 
-Selected **validated** dashboard screenshots are included in the downloadable portfolio starter package and will be added here separately after repository-image upload. Screenshots showing the **pre-reconciliation** results are deliberately excluded.
+The following are **recreated, static analytical summaries of verified results**, **not screenshots of the Power BI report**.
+
+![FCI reconciled feeder coverage](visuals/FCI_Reconciled_Summary.svg)
+
+![SBTI service-band composition by state](visuals/SBTI_State_Composition.svg)
+
+![FECI published energy-cap group review](visuals/FECI_Cap_Review.svg)
+
+The **original, validated Power BI screenshot excerpts** are included in the downloadable portfolio starter package and may be added after image-file review. Pre-reconciliation screenshots are excluded.
 
 A public PBIX and database backup are **not** supplied at this stage; they require data, credential, connection, licence, and reproducibility checks before distribution.
 
