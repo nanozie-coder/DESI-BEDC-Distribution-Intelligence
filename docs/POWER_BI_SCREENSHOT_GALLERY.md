@@ -6,7 +6,7 @@ This project has four completed Power BI dashboard pages. Public imagery must ma
 |---|---|---|
 | **FCI** | Reconciled KPI excerpt: 240 October / 240 November / 0 new / 0.0% | Prepared for manual binary-image upload |
 | **SBTI** | Corrected state service-band 100% stacked bar, Delta vs Edo | Prepared for manual binary-image upload |
-| **EDI** | Five-step management workflow excerpt without an old KPI card | Prepared for manual binary-image upload; not a full-page final screenshot |
+| **EDI** | Recreated management KPI and five-step workflow summary, clearly marked as **not a Power BI screenshot** | Prepared for manual binary-image upload |
 | **FECI** | November 2026 240 / 237 / 3 cap review dashboard | Prepared for manual binary-image upload |
 
 ## Why not publish older full-page screenshots?
@@ -20,7 +20,7 @@ Some earlier screenshots were captured **before source reconciliation or the fin
 - `screenshots/EDI_Management_Workflow_Excerpt.png`
 - `screenshots/FECI_Validated_Energy_Cap_Dashboard.png`
 
-**Do not claim these are all full-dashboard screenshots**: FCI, SBTI and EDI assets are visual excerpts. FECI is a full-dashboard capture.
+**Do not claim these are all full-dashboard screenshots**: FCI and SBTI are visual excerpts; EDI is a recreated summary; FECI is a full-dashboard capture.
 
 ## Upload procedure
 
