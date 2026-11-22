@@ -80,7 +80,25 @@ The following are **recreated, static analytical summaries of verified results**
 
 ![EDI executive intelligence and decision workflow](visuals/EDI_Workflow_Summary.svg)
 
-The **original, validated Power BI screenshot excerpts** are included in the downloadable portfolio starter package and may be added after image-file review. Pre-reconciliation screenshots are excluded.
+### Validated Power BI screenshots and portfolio excerpts
+
+**FCI — Feeder Coverage Intelligence** (reconciled KPI excerpt; 240 feeders in each reporting period, 0 newly observed)
+
+![FCI Power BI reconciled KPI excerpt](screenshots/FCI_Reconciled_Coverage_KPIs.png)
+
+**SBTI — Service Band Transition Intelligence** (corrected Delta–Edo published service-band mix)
+
+![SBTI Power BI service-band composition excerpt](screenshots/SBTI_Corrected_State_Composition.png)
+
+**EDI — Executive Decision Intelligence** (recreated management summary/workflow; **not a Power BI screenshot**)
+
+![EDI management intelligence summary](screenshots/EDI_Management_Workflow_Excerpt.png)
+
+**FECI — Feeder Energy Cap Intelligence** (validated dashboard capture; cap-group review)
+
+![FECI Power BI energy cap dashboard](screenshots/FECI_Validated_Energy_Cap_Dashboard.png)
+
+These portfolio images use the **post-reconciliation** results. FCI and SBTI are excerpts, EDI is a recreated summary, and FECI is a dashboard capture. Older contradictory pre-reconciliation images have been excluded.
 
 A public PBIX and database backup are **not** supplied at this stage; they require data, credential, connection, licence, and reproducibility checks before distribution.
 
